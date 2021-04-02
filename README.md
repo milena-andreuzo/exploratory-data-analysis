@@ -1,2 +1,2 @@
-# exploratory-data-analysis
-Lessons from the Johns Hopkins Universisty course on Coursera.
+# Exploratory Data Analysis
+Lessons from the Exploratory Data Analysis course on Coursera from Johns Hopkins University.
